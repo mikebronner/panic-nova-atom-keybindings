@@ -1,0 +1,28 @@
+{
+    "menuItems" : {
+        "AddCursorsAtEndOfLine" : {
+          "shortcut" : "cmd-shift-l"
+        },
+        "Fold" : {
+          "shortcut" : "cmd-alt-["
+        },
+        "MoveLinesDown" : {
+          "shortcut" : "cmd-ctrl-down"
+        },
+        "MoveLinesUp" : {
+          "shortcut" : "cmd-ctrl-up"
+        },
+        "OpenQuickly" : {
+          "shortcut" : "alt-p"
+        },
+        "Print" : {
+          "shortcut" : "cmd-alt-ctrl-p"
+        },
+        "ToggleCommandPalette" : {
+          "shortcut" : "cmd-p"
+        },
+        "Unfold" : {
+          "shortcut" : "cmd-alt-]"
+        }
+    }
+}
