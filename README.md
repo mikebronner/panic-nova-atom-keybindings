@@ -25,8 +25,8 @@ Let's get started!
 | Menu Item              | Binding     |
 | ---------------------- | ----------- |
 | Add Cursors At End Of Line | `⌘ ⬆️ L` |
-| Command Palette        | `⌘ P`       |
-| Open Quickly           | `⌥ P`       |
+| Command Palette        | `⌘ ⬆️ P`    |
+| Open Quickly           | `⌘ P`       |
 | Fold                   | `⌘ ⌥ [`     |
 | Unfold                 | `⌘ ⌥ ]`     |
 | Move Line(s) Down      | `^ ⌘ ↓`     |

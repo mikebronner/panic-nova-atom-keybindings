@@ -13,13 +13,13 @@
           "shortcut" : "cmd-ctrl-up"
         },
         "OpenQuickly" : {
-          "shortcut" : "alt-p"
+          "shortcut" : "cmd-p"
         },
         "Print" : {
           "shortcut" : "cmd-alt-ctrl-p"
         },
         "ToggleCommandPalette" : {
-          "shortcut" : "cmd-p"
+          "shortcut" : "cmd-shift-p"
         },
         "Unfold" : {
           "shortcut" : "cmd-alt-]"
