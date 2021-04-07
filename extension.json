@@ -3,8 +3,10 @@
     "name": "Atom Editor Key Bindings",
     "organization": "GeneaLabs",
     "description": "Allows usage of Atom Editor's key bindings in Nova.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "categories": ["key-bindings"],
     "bugs": "https://github.com/GeneaLabs/panic-nova-atom-keybindings/issues",
-    "repository": "https://github.com/GeneaLabs/panic-nova-atom-keybindings"
+    "repository": "https://github.com/GeneaLabs/panic-nova-atom-keybindings",
+    "license": "MIT",
+    "funding": "https://github.com/sponsors/GeneaLabs"
 }

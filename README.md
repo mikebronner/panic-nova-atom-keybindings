@@ -54,3 +54,8 @@ We are constantly adding additional shortcuts as needed. Please submit an issue
 
 P.S. If you'd like, you can remove these comments before submitting your extension 😉
 -->
+
+### Configuration
+
+To enable these key bindings, open **Nova → Preferences... → Key Bindings** then
+  select **Key Bindings Set** `Atom Editor Key Bindings`.

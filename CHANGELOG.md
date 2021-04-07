@@ -9,6 +9,11 @@
   cursor one line below the selected lines. This appears to be a Nova bug, and I
   haven't found a way to work around it yet.
 
+## [0.1.2] - 2021-04-07
+### Added
+- license.
+- configuration instructions in README.
+
 ## [0.1.1] - 2021-04-07
 ### Fixed
 - shortcuts for command pallete and quick-open.
